@@ -2,4 +2,4 @@
 
 ##demo: https://antonymous-crystal.000webhostapp.com/
 
-![screenshot](https://ibb.co/wd5fzM6)
+![](https://ibb.co/wd5fzM6)
