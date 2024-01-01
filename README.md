@@ -2,4 +2,4 @@
 
 ##demo: https://antonymous-crystal.000webhostapp.com/
 
-![ss](https://i.ibb.co/4FhHVPN/localhost-Full-Stack-Ecommerce-web-with-chatbot-index-php.png)
+<img src="https://i.ibb.co/3TgnCBh/localhost-Full-Stack-Ecommerce-web-with-chatbot-index-php.png" alt="localhost-Full-Stack-Ecommerce-web-with-chatbot-index-php" border="0">
